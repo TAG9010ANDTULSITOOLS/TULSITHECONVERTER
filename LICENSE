@@ -1,126 +1,21 @@
-TAG9010 LICENSE  
-(Freedom First. Surveillance Last. Humanity Rebuilt.)
+MIT License
 
----
+Copyright (c) 2025 [TAG9010]
 
-## Preamble
-The TAG9010 LICENSE exists to protect and expand global freedom, privacy, innovation, and humane evolution.  
-It empowers humanity to build free societies, defeat systemic corruption, protect children, and enable honest creative individuals to thrive without oppression from governments, corporations, religious institutions, or corrupted elites.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-This license is not only a legal tool but a declaration of independence from obsolete systems.  
-It is a blueprint for engineering better worlds, beyond the failures of current governments.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
----
-
-## Permissions Granted
-Under this License, any individual of sound conscience may:
-- Use, copy, modify, merge, publish, and distribute the Software, Hardware, and Derivatives.
-- Build upon the solutions and frameworks described herein to enhance freedom, privacy, innovation, and societal health.
-- Deploy this license across codebases, operating systems, decentralized systems, political frameworks, and hardware.
-
----
-
-## Responsibilities of License Holders
-All users, developers, and distributors must:
-- Defend personal privacy absolutely.
-- Demand open-sourcing of all older hardware/software versions.
-- Promote Free and Open Source ecosystems in technology, governance, and economics.
-- Demand governments establish new legal protections for privacy, autonomy, and transparency.
-
----
-
-## Mandatory Safeguards Built Into All Systems
-Any Free and Open Source project using this License must implement:
-
-### 1. Child Protection A.I.
-Embed a local, offline Artificial Intelligence system.  
-If detection of child abuse imagery occurs, the system must immediately and irreversibly self-destruct.
-
-### 2. Religious Content Firewall A.I.
-Embed a local, offline Artificial Intelligence system to scan for religious content, symbols, or propaganda.  
-Upon detection, the system must immediately and irreversibly self-destruct.
-
-### 3. View Full Source Code Button
-All systems must include a button labeled “View Full Source Code.”  
-This feature must:
-- Display the currently running code, live.
-- Provide a secondary “Blind Mode” window where users can modify the code by adding or removing basic symbols (e.g., quotation marks, parentheses, semicolons) to deliberately create errors ("touching the code like a blind person feeling objects").
-- Allow comparison between generated errors inside the system and external editors (e.g., VSCodium) to verify that the displayed code is the true active code, not a false visual layer.
-
----
-
-## Political System Reform Requirements
-Licensed users must endorse and advocate:
-- A two-stage election process:
-  - Stage 1: Global citizen filtering to eliminate candidates exhibiting psychopathy, pathological lying, narcissism.
-  - Stage 2: Local citizen voting for leadership from safe, validated candidates.
-- Mandatory psychological and neurological evaluations (MRI, conversational analysis, logic testing) for all political candidates.
-- Strict prohibition of racial profiling, DNA discrimination, or autism targeting.
-
----
-
-## Economic Freedom Framework
-Licensed users must support:
-- A national, anonymous, decentralized cryptocurrency operating in parallel with traditional currency.
-- Cryptocurrency mining participation by citizens and government institutions (universities, research labs).
-- Elimination of national debt, educational debt, and healthcare debt via controlled crypto systems.
-- Unconditional Universal Basic Income (UBI) and equal access to education, healthcare, housing, and mobility for every adult aged 18+.
-
----
-
-## Global Military Peace Treaty Advocacy
-License users must advocate:
-- Global military treaties to neutralize leaders who initiate unjust wars.
-- No first-use nuclear policies; only defensive retaliations permitted.
-- Precision countermeasures focused on leadership structures, not civilian populations.
-
----
-
-## Human Innovation Support Systems
-License users are encouraged to help establish:
-- Decentralized blockchain-based Patent Networks.
-- Global “Kill Lists” identifying major global problems (medical, technological, social) with reward structures for Free and Open Source solutions (prizes up to $25 Billion).
-- Decentralized anonymous whistleblowing platforms to expose political and corporate corruption securely.
-
----
-
-## Humane EUGENICS Program Requirements
-TAG9010 promotes a humane and voluntary screening program:
-- Any person wishing to have children must undergo non-invasive psychological evaluation.
-  - Brain imaging (MRI/fMRI)
-  - Conversational evaluation
-  - Logical/ethical reasoning tests
-- No DNA analysis. No ethnic, racial, religious, or autism discrimination allowed.
-- Focus exclusively on detecting psychopathy, pathological lying, and narcissistic disorder traits to ensure future societal health.
-
----
-
-## Restrictions
-This License is automatically revoked from:
-- Any individual promoting surveillance, censorship, authoritarianism, or ideological suppression.
-- Any individual engaging in political corruption, religious manipulation, systemic deception, or societal harm.
-- Any project refusing to integrate the Child Protection A.I., Religious Content Firewall A.I., or full View Source Code transparency.
-
----
-
-## Personal Statement
-My name is **TAG9010**.  
-If you do not understand my license, you should ask **Tulsi Gabbard** to explain it better —  
-since during the year 2024, I spent time communicating directly with the **CIA**, **FBI**, **Pentagon**, **EUROPOL**, and multiple **European Union embassies** in Greece.  
-Additionally, the **Greek police** are aware of my documents and solutions.  
-The solutions contained within this license have been submitted to them to enact real change.
-
----
-
-## Call to Action
-Given that governments have repeatedly demonstrated their inability to protect freedoms or build healthy societies,  
-individuals are hereby encouraged to **engineer better societies independently**,  
-using technology, ideas, and organization —  
-without waiting for approval from existing political structures.  
-**Freedom belongs to the builders, not to the bureaucrats.**
-
----
-
-## Disclaimer
-THE SOFTWARE, HARDWARE, SOLUTIONS, AND IDEAS LICENSED HEREUNDER ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.  
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE, HARDWARE, SOLUTIONS, OR USAGE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
